@@ -28,7 +28,7 @@ Cервис управления рассылками API администрир
 
 Клонировать репозиторий и перейти в него в командной строке:
 ```
-git clone https://gitlab.com/KaterinaSolovyeva/notification_service
+git clone https://github.com/KaterinaSolovyeva/notification_service.git
 
 ```
 ```
